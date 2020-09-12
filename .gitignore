@@ -1,0 +1,5 @@
+*pytorch lstm.ipynb
+*.data
+*.ipynb_checkpoints
+*.vector_cache
+
